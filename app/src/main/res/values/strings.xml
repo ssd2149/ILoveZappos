@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="search_hint">Enter product</string>
+</resources>
